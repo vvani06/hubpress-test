@@ -1,0 +1,6 @@
+= HubPressを使ってみた
+:hp-alt-title: PubPress, first impression
+:hp-tags: dev
+
+HitHub上でブログしたいと思ったので最もスタートがお手軽そうなHubPressのセットアップを実施してみた。
+MarkDownは少しだけ使ったことがあるがAsciiDocという記法は初めて使う。ひとまずこの投稿をもってテスト作業の締めとしたい。
