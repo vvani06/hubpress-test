@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "vvani06",
-    "repositoryName": "vvani06.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"vvani06","repositoryName":"vvani06.github.io","branch":"master"},"site":{"title":"vvani06のHubPress","description":"vvani06のHubPress","url":"https://vvani06.github.io"},"socialnetwork":{"twitter":"vvanitter","github":"vvani06"},"theme":{"name":"Casper","url":"//vvani06.github.io/themes/Casper"}}
